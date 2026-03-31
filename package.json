@@ -1,4 +1,4 @@
-<meta name='viewport' content='width=device-width, initial-scale=1'/>{
+{
   "name": "hybrid-nas",
   "version": "1.0.0",
   "main": "server.js",
@@ -15,21 +15,3 @@
     "uuid": "^9.0.1"
   }
 }
-<script>{
-  "name": "hybrid-nas",
-  "version": "1.0.0",
-  "main": "server.js",
-  "type": "commonjs",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "fastify": "^4.25.2",
-    "@fastify/multipart": "^7.7.0",
-    "@fastify/jwt": "^6.0.1",
-    "better-sqlite3": "^9.4.0",
-    "bcryptjs": "^2.4.3",
-    "uuid": "^9.0.1"
-  }
-}
-</script>
